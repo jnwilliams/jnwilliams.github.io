@@ -25,7 +25,7 @@ __Joshua Williams__, J. Zico Kolter \\
 &nbsp;
 
 * __Visualization of Breast Cancer Metabolism Using Multimodal Nonlinear Optical Microscopy of Cellular Lipids and Redox State__ \\
-Jue Hou, Joshua Williams, Elliot L Botvinick, Eric O Potma, Bruce J Tromberg \\
+Jue Hou, __Joshua Williams__, Elliot L Botvinick, Eric O Potma, Bruce J Tromberg \\
 <i> Journal of Cancer research, 2018; Vol 78</i> \\
 <a href="https://cancerres.aacrjournals.org/content/78/10/2503.short" target="_blank">[paper]</a>
 &nbsp;
@@ -46,7 +46,7 @@ __Joshua N. Williams BSc__, Karsten Koenig PhD, Bruce J. Tromberg PhD, Natasha A
 &nbsp;
 
 * __In vivo multiphoton microscopy imaging of pigmentary skin disorders__
-Mihaela Balu, Griffin Lentsch, Joshua N Williams, Inga Saknite, Karsten Koenig, Anand Ganesan, Bruce J. Tromberg  \\
+Mihaela Balu, Griffin Lentsch, __Joshua N Williams__, Inga Saknite, Karsten Koenig, Anand Ganesan, Bruce J. Tromberg  \\
 <i>Optics in Life Sciences Congress, 2017</i>\\
 <a href="https://www.osapublishing.org/abstract.cfm?uri=OMP-2017-OmM3D.3" target="_blank">[paper]</a>
 &nbsp;
