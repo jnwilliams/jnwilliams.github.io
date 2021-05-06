@@ -8,28 +8,15 @@ social_media: false
 ---
 
 ### About Me
-Hello! I am a third year Ph.D. student in the Computer Science Department at Carnegie Mellon Univerity, 
+Hello! I am a second year Ph.D. student in Computer Science at Carnegie Mellon Univerity, 
 advised by <a href="http:zicokolter.com" target="_blank"> Zico Kolter </a>.
 
-My Research area focuses on machine learning and its social impact. Primarily, I am interested in understanding the long-term social ramifications of data-driven decision systems, especially as they relate to the criminal justice system. I am currently funded through the Ford Foundation Pre-Doctoral Fellowship. 
+My Research area focuses on machine learning and its social impact. Primarily, I am interested in understanding the long-term social ramifications of data-driven decision systems. I am currently funded through the Ford Foundation Pre-Doctoral Fellowship. 
 
-Before CMU, I was a Post-Baccalaureatte Research Fellow with the Beckman Laser Institute at the University of California, Irvine, where I worked on automated analyses of in-vivo multi-photon microscopy images under Mihaela Balu and Bruce Tromberg. Even earlier, I was an undergraduate at Hampton University in Mathematics with a minor in Computer Science.
+Before CMU, I was a Post-Baccalaureatte Research Fellow with the Beckman Laser Institute at the University of California, Irvine, where I worked on automated analyses of in-vivo multi-photon microscopy images.
+Even earlier, I was an undergraduate at Hampton University in Mathematics with a minor in Computer Science.
 
 ### Publications, Preprints, and Workshop Papers
-( \* Equal Contribution )
-
-* __A Bayesian Model of Cash Bail Decisions__ \\
- __Joshua Williams__, J. Zico Kolter \\
- <i> 2021 ACM Conference on Fairness, Accountability, and Transparency (ACM FAcct 2021) </i> \\
- <a href="https://arxiv.org/abs/2101.12267" target="_blank">[paper]</a>
- <a href="https://github.com/jnwilliams/padockets" target="_blank">[data]</a>
- &nbsp;
-
-* __A Call for Universities to Develop Requirements for Community Engagement in AI Research__ \\
-  Emily Black\*, __Joshua Williams__\*, Michael Madaio, Priya L Donti \\
- <i> Fair & Responsible AI Workshop @ Chi2020 </i> \\
- <a href="http://www.cs.cmu.edu/afs/cs.cmu.edu/user/emilybla/www/CHI2020_extended_abstract.pdf" target="_blank">[paper]</a>
- &nbsp;
 
 * __Dynamic Modeling and Equilibria in Fair Decision Making__ \\
 __Joshua Williams__, J. Zico Kolter \\
