@@ -22,12 +22,12 @@ description: Josh Williams, Ph.D. Student in Computer Science, Carnegie Mellon U
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-# navbar-links:
-#   About Me: "aboutme"
-#   Resources:
-#     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-#     - Learn markdown: "http://www.markdowntutorial.com/"
-#     - GitHub Pages: "https://pages.github.com/"
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+     - Learn markdown: "http://www.markdowntutorial.com/"
+     - GitHub Pages: "https://pages.github.com/"
 #   Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -43,8 +43,8 @@ description: Josh Williams, Ph.D. Student in Computer Science, Carnegie Mellon U
 # By default, the navigation bar and footer have a light gray background, and the main page
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
-# navbar-col: "orange"
-# navbar-img: "/img/bgimage.png"
+navbar-col: "orange"
+#navbar-img: "/img/bgimage.png"
 # footer-col: "blue"
 # footer-img: "/img/bgimage.png"
 # page-col: "#FF0000"
@@ -58,12 +58,13 @@ author:
   name: Joshua Williams
   email: "jnwillia [at] cs [dot] cmu [dot] edu"
   github: jnwilliams    # eg. daattali
+  cv: files/jwilliams_cv.pdf
 
 # Select which links to show in the footer
 footer-links-active:
   rss: false
   facebook: false
-  email: true
+  email: false
   twitter: false
   googleplus: false
   googlescholar: false
@@ -80,7 +81,7 @@ footer-links-active:
   steam: false
   twitch: false
   yelp: false
-  cv: false
+  cv: true
 
 # Select which share links to show in posts
 share-links-active:
@@ -88,6 +89,9 @@ share-links-active:
   facebook: false
   google: false
   linkedin: false
+  email: false
+  github: true
+  cv: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
