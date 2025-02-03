@@ -3,7 +3,7 @@ layout: page
 title: Joshua N. Williams
 subtitle: Ph.D. Student in Computer Science
 subtitle2: Carnegie Mellon University
-img: img/JoshWilliams2024e_cropped.jpg
+img: img/JoshWilliams2024e_cropped.png
 social_media: true
 navbar: true
 ---
